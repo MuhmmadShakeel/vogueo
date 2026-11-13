@@ -1,0 +1,41 @@
+{
+  "generator": "Built-in image_gen",
+  "note": "AI-generated concept imagery; not actual clinic, staff, patients, or results.",
+  "images": [
+    {
+      "name": "hero-clinic",
+      "file": "hero-clinic.webp",
+      "prompt": "Wide editorial architectural photograph of a premium dental clinic, sculptural olive green #5A712F dental chair on the RIGHT, matte black cabinetry, warm white travertine, indoor olive tree, arched daylight windows, clean negative space on LEFT for website heading, realistic professional interior, landscape 3:2, no people, no text."
+    },
+    {
+      "name": "hero-smile",
+      "file": "hero-smile.webp",
+      "prompt": "Luxury dental campaign editorial photograph, close portrait of an adult South Asian woman with a warm natural healthy smile on RIGHT side of wide composition, olive green #5A712F backdrop fading into deep black on LEFT with ample negative space for headline, tasteful black outfit, realistic skin and naturally proportioned teeth, premium soft studio light, landscape 3:2, no text."
+    },
+    {
+      "name": "hero-consultation",
+      "file": "hero-consultation.webp",
+      "prompt": "Premium dental clinic consultation editorial photograph, friendly adult South Asian female dentist in olive green #5A712F scrubs discussing a digital dental scan with an adult woman patient, both subjects on RIGHT of composition, black and ivory modern clinic with olive tree, LEFT soft dark negative space for copy, photorealistic candid professional lighting, landscape 3:2, no text."
+    },
+    {
+      "name": "clinic-lounge",
+      "file": "clinic-lounge.webp",
+      "prompt": "Architectural editorial photo of luxury dental clinic reception, olive green #5A712F curved velvet sofa, black sculptural reception desk, cream travertine, large round mirror, indoor olive tree with branching leaves, gentle sunlight, sophisticated clean and welcoming, no people, no text, landscape 3:2."
+    },
+    {
+      "name": "smile-detail",
+      "file": "smile-detail.webp",
+      "prompt": "High end beauty dental editorial photo, close crop of adult South Asian woman's lower face with natural healthy bright smile, realistic balanced teeth and lips, fingertips gently near chin, olive green soft background, black garment, professional studio light, tasteful authentic skin texture, landscape 3:2, no text."
+    },
+    {
+      "name": "specialist",
+      "file": "specialist.webp",
+      "prompt": "Professional editorial portrait of fictional adult South Asian female dentist in olive green #5A712F medical scrubs, friendly confident expression, arms gently folded, sleek black and cream modern dental clinic background, natural soft light, sophisticated professional portrait, waist-up, landscape 3:2, no text or logos."
+    },
+    {
+      "name": "digital-dentistry",
+      "file": "digital-dentistry.webp",
+      "prompt": "Premium dental technology still life photograph, intraoral scanner and realistic unbranded clear aligner on black stone surface, olive green #5A712F subtle background, softly lit dental chair out of focus, clean precise medical product photography, beautiful soft shadows, landscape 3:2, no text or logos."
+    }
+  ]
+}
